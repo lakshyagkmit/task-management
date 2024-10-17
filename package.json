@@ -1,0 +1,25 @@
+{
+  "name": "task-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lakshyagkmit/task-management.git"
+  },
+  "author": "Lakshya Kr. Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshyagkmit/task-management/issues"
+  },
+  "homepage": "https://github.com/lakshyagkmit/task-management#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
